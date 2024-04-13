@@ -7,7 +7,7 @@ Data criada: 13.03.24
 
 <h4>INTRODUÇÃO DO PROBLEMA</h4>
 
-Baseado nos dados que estão em formado CSV, ou no seguinte link, vamos analisar os dados dos clientes de uma instituição financeira afim de analisar e explicar o comportamento de uma coluna: a default.
+Baseado nos dados que estão em formado CSV, ou no seguinte <a href="https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/develop/dataset/credito.csv">link</a> , vamos analisar os dados dos clientes de uma instituição financeira afim de analisar e explicar o comportamento de uma coluna: a default.
 
 Essa coluna nos diz se o cliente é inadimplente (default=1) ou não (default=0.
 
